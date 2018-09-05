@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="319a1250-518a-424e-b086-a10eb1025111" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContinueDoWhileExample.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1218078379">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="411" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="411" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Simple.java" />
+        <option value="$PROJECT_DIR$/src/ClassLoaderExample.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/OperatorExample.java" />
+        <option value="$PROJECT_DIR$/src/IfExample.java" />
+        <option value="$PROJECT_DIR$/src/IfElseIfExample.java" />
+        <option value="$PROJECT_DIR$/src/SwitchExample.java" />
+        <option value="$PROJECT_DIR$/src/SwitchMonthExample.java" />
+        <option value="$PROJECT_DIR$/src/SwitchExample2.java" />
+        <option value="$PROJECT_DIR$/src/SwitchStringExample.java" />
+        <option value="$PROJECT_DIR$/src/NestedSwitchExample.java" />
+        <option value="$PROJECT_DIR$/src/JavaSwitchEnumExample.java" />
+        <option value="$PROJECT_DIR$/src/WrapperInSwitchCaseExample.java" />
+        <option value="$PROJECT_DIR$/src/ForExample.java" />
+        <option value="$PROJECT_DIR$/src/ForEachExample.java" />
+        <option value="$PROJECT_DIR$/src/WhileExample.java" />
+        <option value="$PROJECT_DIR$/src/DoWhileExample.java" />
+        <option value="$PROJECT_DIR$/src/ContinueExample.java" />
+        <option value="$PROJECT_DIR$/src/ContinueExample3.java" />
+        <option value="$PROJECT_DIR$/src/ContinueWhileExample.java" />
+        <option value="$PROJECT_DIR$/src/ContinueDoWhileExample.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="301" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536143995805" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClassLoaderExample">
+    <configuration name="ClassLoaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassLoaderExample" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueDoWhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueDoWhileExample" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueExample" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueExample3" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueWhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContinueWhileExample" />
+      <module name="helloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ContinueExample" />
+      <item itemvalue="Application.ContinueExample3" />
+      <item itemvalue="Application.ContinueWhileExample" />
+      <item itemvalue="Application.ContinueDoWhileExample" />
+      <item itemvalue="Application.ClassLoaderExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassLoaderExample" />
+        <item itemvalue="Application.ContinueDoWhileExample" />
+        <item itemvalue="Application.ContinueWhileExample" />
+        <item itemvalue="Application.ContinueExample3" />
+        <item itemvalue="Application.ContinueExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="319a1250-518a-424e-b086-a10eb1025111" name="Default Changelist" comment="" />
+      <created>1536136115858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536136115858</updated>
+      <workItem from="1536136126227" duration="7054000" />
+    </task>
+    <task id="LOCAL-00001" summary="comment">
+      <created>1536140164873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536140164874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comment">
+      <created>1536140248628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536140248628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comment">
+      <created>1536141844171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536141844171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="comment">
+      <created>1536142266466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536142266466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="comment">
+      <created>1536142655154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536142655154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="comment">
+      <created>1536142961131</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536142961131</updated>
+    </task>
+    <task id="LOCAL-00007" summary="comment">
+      <created>1536143404393</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536143404393</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.178125" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32962963" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32777777" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32962963" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.17857143" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassLoaderExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IfExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IfElseIfExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchMonthExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchExample2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchStringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NestedSwitchExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaSwitchEnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WrapperInSwitchCaseExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForEachExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WhileExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoWhileExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContinueExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContinueExample3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContinueWhileExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContinueDoWhileExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>helloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
