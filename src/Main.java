@@ -11,6 +11,8 @@ public class Main {
         System.out.println(5+2);
         System.out.println(variable +3);
         System.out.println(bogstav);
+
+        //hvad med en update
     }
 
 }
